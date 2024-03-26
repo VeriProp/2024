@@ -36,7 +36,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission date**: TBA
+**Submission date**: May 10th, AoE
 
 **Submission link**: TBA
 
