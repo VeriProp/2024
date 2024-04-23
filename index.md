@@ -38,7 +38,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 **Submission date**: May 10th, AoE
 
-**Submission link**: https://easychair.org/conferences/?conf=veriprop2024
+**Submission link**: [https://easychair.org/conferences/?conf=veriprop2024](https://easychair.org/conferences/?conf=veriprop2024)
 
 ### Attending
 
