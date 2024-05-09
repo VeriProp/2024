@@ -8,7 +8,8 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers
 
-TBA
+- [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/)
+- [Mirco Giacobbe](https://mircogiacobbe.github.io) 
 
 
 # Program
@@ -36,7 +37,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission date**: May 10th, AoE
+**Submission date**: May 24th, AoE
 
 **Submission link**: [https://easychair.org/conferences/?conf=veriprop2024](https://easychair.org/conferences/?conf=veriprop2024)
 
