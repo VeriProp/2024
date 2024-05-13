@@ -8,8 +8,9 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers
 
-- [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/)
 - [Mirco Giacobbe](https://mircogiacobbe.github.io) 
+- [Jan Hoffman](https://www.cs.cmu.edu/~janh/)
+- [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/)
 
 
 # Program
