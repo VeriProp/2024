@@ -15,7 +15,19 @@ This workshop will provide a forum for research on the automated verification of
 
 # Program
 
-TBA
+| Time  | Author(s)                                                                                                   | Title                                                                                              |
+|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 9:00  |                                                                                                             | Opening                                                                                            |
+| **9:10**  | **Jan Hoffman**                                                                                         | **Sound Probabilistic Inference with Guide Programs**                                              |
+| **9:50**  | **Steven Holtzen**                                                                                      | **TBA**                                                                                            |
+| 10:30 |                                                                                                             | Coffee break                                                                                       |
+| 11:00 | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný and Đorđe Žikelić                            | Disproving Equivalence of Probabilistic Programs                                                   |
+| 11:16 | Kazuki Watanabe, Sebastian Junges, Jurriaan Rot and Ichiro Hasuo                                            | A Unifying Approach to Product Constructions for Quantitative Temporal Inference                   |
+| 11:32 | Muqsit Azeem, Jan Křetínský                                                                                 | TBA                                                                                                |
+| **11:50** | **Mirco Giacobbe**                                                                                      | **TBA**                                                                                            |
+| 12:30 |                                                                                                             | Lunch break                                                                                        |
+| **14:00** |                                                                                                         | **Open Problems and Lightning Talks Session**                                                      |
+| 15:30 |                                                                                                             | Closing                                                                                            |
 
 
 # Call for Presentations
