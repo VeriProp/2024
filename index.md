@@ -9,7 +9,7 @@ This workshop will provide a forum for research on the automated verification of
 # Invited Speakers
 
 - [Mirco Giacobbe](https://mircogiacobbe.github.io) 
-- [Jan Hoffman](https://www.cs.cmu.edu/~janh/)
+- [Jan Hoffmann](https://www.cs.cmu.edu/~janh/)
 - [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/)
 
 
@@ -18,7 +18,7 @@ This workshop will provide a forum for research on the automated verification of
 | Time  | Author(s)                                                                                                   | Title                                                                                              |
 |-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | 9:00  |                                                                                                             | Opening                                                                                            |
-| **9:10**  | **Jan Hoffman**                                                                                         | **Sound Probabilistic Inference with Guide Programs**                                              |
+| **9:10**  | **Jan Hoffmann**                                                                                        | **Sound Probabilistic Inference with Guide Programs**                                              |
 | **9:50**  | **Steven Holtzen**                                                                                      | **TBA**                                                                                            |
 | 10:30 |                                                                                                             | Coffee break                                                                                       |
 | 11:00 | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný and Đorđe Žikelić                            | Disproving Equivalence of Probabilistic Programs                                                   |
