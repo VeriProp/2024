@@ -8,9 +8,17 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers
 
-- [Mirco Giacobbe](https://mircogiacobbe.github.io) 
+- [Mirco Giacobbe](https://mircogiacobbe.github.io)
+    * Model checking with Neural Networks
+    * Abstract: Model checking aims to derive rigorous proofs for the correctness of systems and has traditionally relied on purely symbolic methods. In this talk, I will show that model checking can be effectively addressed using machine learning too. I will present a realm of approaches for formal verification that leverage neural networks to represent certificates for the correctness of systems, known as "neural certificates." This approach trains certificates from synthetic executions of the system and then checks their validity using symbolic reasoning. Building upon the observation that checking a certificate is much simpler than finding one, and that neural networks are an appropriate representation for such certificates, this results in a machine learning approach to model checking that is entirely unsupervised, formally sound, and practically effective. I will show the principles and experimental results of this approach in correctness assurance of software, probabilistic systems, and control. 
+
 - [Jan Hoffmann](https://www.cs.cmu.edu/~janh/)
+    * Sound Probabilistic Inference with Guide Programs
+
 - [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/)
+    * Decomposing Probability Distributions
+ 
+      
 
 
 # Program
@@ -19,12 +27,12 @@ This workshop will provide a forum for research on the automated verification of
 |-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | 9:00  |                                                                                                             | Opening                                                                                            |
 | **9:10**  | **Jan Hoffmann**                                                                                        | **Sound Probabilistic Inference with Guide Programs**                                              |
-| **9:50**  | **Steven Holtzen**                                                                                      | **TBA**                                                                                            |
+| **9:50**  | **Steven Holtzen**                                                                                      | **Decomposing Probability Distributions**                                                                                            |
 | 10:30 |                                                                                                             | Coffee break                                                                                       |
 | 11:00 | Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Petr Novotný and Đorđe Žikelić                            | Disproving Equivalence of Probabilistic Programs                                                   |
 | 11:16 | Kazuki Watanabe, Sebastian Junges, Jurriaan Rot and Ichiro Hasuo                                            | A Unifying Approach to Product Constructions for Quantitative Temporal Inference                   |
 | 11:32 | Muqsit Azeem, Jan Křetínský and Maximilian Weininger                                                        | Sound Value Iteration for Simple Stochastic Games                                                  |
-| **11:50** | **Mirco Giacobbe**                                                                                      | **TBA**                                                                                            |
+| **11:50** | **Mirco Giacobbe**                                                                                      | **Model checking with Neural Networks**                                                                                            |
 | 12:30 |                                                                                                             | Lunch break                                                                                        |
 | **14:00** |                                                                                                         | **Open Problems and Lightning Talks Session**                                                      |
 | 15:30 |                                                                                                             | Closing                                                                                            |
